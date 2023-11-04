@@ -2,12 +2,12 @@
   "users":[
     {
       "username":"Prasad",
-      "email":"user1",
+      "email":"user1@gmail.com",
       "password":"pass"
     },
     {
       "username":"Bhumi",
-      "email":"user2",
+      "email":"user2@gmail.com",
       "password":"pass1"
     }
     
